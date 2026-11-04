@@ -1,0 +1,6 @@
+﻿*.pdf
+__pycache__/
+*.pyc
+.tox/
+.pytest_cache/
+.mypy_cache/
